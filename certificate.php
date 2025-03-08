@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -213,7 +213,7 @@
                             <div class="single-certificates">
                                 <div class="left">
                                     <img src="assets/images/dashboard/certificates/01.png" alt="dsds">
-                                    <h5 class="title">Machine Learning by Studyhub</h5>
+                                    <h5 class="title">Machine Learning by Campus Coach | Guiding Future</h5>
                                 </div>
                                 <div class="right">
                                     <a href="#" class="draft-btn">
@@ -232,7 +232,7 @@
                             <div class="single-certificates">
                                 <div class="left">
                                     <img src="assets/images/dashboard/certificates/02.png" alt="dsds">
-                                    <h5 class="title">Machine Learning by Studyhub</h5>
+                                    <h5 class="title">Machine Learning by Campus Coach | Guiding Future</h5>
                                 </div>
                                 <div class="right">
                                     <a href="#" class="draft-btn published-btn">
@@ -251,7 +251,7 @@
                             <div class="single-certificates">
                                 <div class="left">
                                     <img src="assets/images/dashboard/certificates/03.png" alt="dsds">
-                                    <h5 class="title">Machine Learning by Studyhub</h5>
+                                    <h5 class="title">Machine Learning by Campus Coach | Guiding Future</h5>
                                 </div>
                                 <div class="right">
                                     <a href="#" class="draft-btn published-btn">

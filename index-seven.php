@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -368,7 +368,7 @@
                                         </path>
                                     </defs>
                                     <text font-size="11.2">
-                                        <textPath xlink:href="#circle">We Probide Best Learning Course Studyhub Best</textPath>
+                                        <textPath xlink:href="#circle">We Probide Best Learning Course Campus Coach | Guiding Future Best</textPath>
                                     </text>
                                 </svg>
                                 <i class="fa-regular fa-arrow-up-right"></i>
@@ -382,8 +382,8 @@
                             <img src="assets/images/banner/muscle.png" alt="icon">
                             <span>Why Choose Us</span>
                         </div>
-                        <h2 class="title">Studyhub Your Path to Excellence & Success</h2>
-                        <p class="post-title">we are committed to delivering excellence and innovation. With our edication <br> to studyhub we provide best & excellent that cater.</p>
+                        <h2 class="title">Campus Coach | Guiding Future Your Path to Excellence & Success</h2>
+                        <p class="post-title">we are committed to delivering excellence and innovation. With our edication <br> to Campus Coach | Guiding Future we provide best & excellent that cater.</p>
                     </div>
                     <div class="why-choose-main-wrapper-1">
                         <!-- single choose reason -->
@@ -1260,7 +1260,7 @@
                             </div>
                             <div class="single-input">
                                 <label for="email">Your Email*</label>
-                                <input type="text" id="email" placeholder="info@studyhub.net" required>
+                                <input type="text" id="email" placeholder="info@Campus Coach | Guiding Future.net" required>
                             </div>
                             <div class="single-input">
                                 <label for="message">Message*</label>
@@ -1285,7 +1285,7 @@
                             <img src="assets/images/cta/man.png" alt="">
                         </div>
                         <h2 class="title">Skills Certificate <br>
-                            From the Studyhub</h2>
+                            From the Campus Coach | Guiding Future</h2>
                         <div class="cta-button-area">
                             <a href="#" class="rts-btn btn-secondary">Start Learning <i class="fa-light fa-arrow-right"></i></a>
                         </div>
@@ -1387,7 +1387,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-seven">
-                            <p>Copyright © 2024 All Rights Reserved by Studyhub</p>
+                            <p>Copyright © 2024 All Rights Reserved by Campus Coach | Guiding Future</p>
                             <div class="social-copyright">
                                 <ul>
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -2080,7 +2080,7 @@
                                 <img src="assets/images/banner/bulb-2.png" alt="icon">
                                 <span>Why Choose Us</span>
                             </div>
-                            <h2 class="title mb--25">Build your Skills Certificate From <br> the Studyhub Online course</h2>
+                            <h2 class="title mb--25">Build your Skills Certificate From <br> the Campus Coach | Guiding Future Online course</h2>
                             <div class="finding-source">
                                 <a href="#">
                                     <img src="assets/images/cta/01.svg" alt="cta-one">
@@ -2187,7 +2187,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-one">
-                            <p>Copyright © 2024 All Rights Reserved by Studyhub</p>
+                            <p>Copyright © 2024 All Rights Reserved by Campus Coach | Guiding Future</p>
                             <div class="social-copyright">
                                 <ul>
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

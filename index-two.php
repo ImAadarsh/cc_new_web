@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -647,7 +647,7 @@
                             <img src="assets/images/banner/bulb-2.png" alt="icon">
                             <span>Why Choose Us</span>
                         </div>
-                        <h2 class="title">Studyhub Your Path to
+                        <h2 class="title">Campus Coach | Guiding Future Your Path to
                             Excellence & Success</h2>
                         <p class="post-title">We are passionate about education and dedicated to providing high- <br> quality learning resources for learners of all backgrounds.</p>
                     </div>

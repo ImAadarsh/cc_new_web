@@ -2,7 +2,7 @@
  *
  * -----------------------------------------------------------------------------
  *
- * Template : Studyhub - Education and LMS HTML Template
+ * Template : Campus Coach | Guiding Future - Education and LMS HTML Template
  * Author : reacthemes
  * Author URI : https://reactheme.com/ 
  *

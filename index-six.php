@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -43,7 +43,7 @@
                                 <h1 class="title-banner">
                                     Inspiring Fluency Empowering Futures
                                 </h1>
-                                <p class="disc">Welcome to Studyhub where the world of languages comes alive! At Studyhub, we believe in the transformative power of language learning.</p>
+                                <p class="disc">Welcome to Campus Coach | Guiding Future where the world of languages comes alive! At Campus Coach | Guiding Future, we believe in the transformative power of language learning.</p>
                                 <div class="banner-btn-author-wrapper">
                                     <a href="course-two.php" class="rts-btn btn-primary">View All Course</a>
                                 </div>

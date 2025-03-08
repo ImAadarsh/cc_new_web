@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $recipient = "support@reactheme.com";
 
     // Set the email subject.
-    $subject = "Studyhub Contact Form $name";
+    $subject = "Campus Coach | Guiding Future Contact Form $name";
 
     // Build the email content.
     $email_content = "Name: $name\n";

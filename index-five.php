@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -398,7 +398,7 @@
                         </div>
                         <p class="disc mb--30">
                             My name is Elizabeth Susan and I am super-psyched that you are reading this!
-                            Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on Studyhub I have passed on my knowledge to thousands of aspiring data scientists.
+                            Professionally, I come from the Data Science consulting space with experience in finance, retail, transport and other industries. I was trained by the best analytics mentors at Deloitte Australia and since starting on Campus Coach | Guiding Future I have passed on my knowledge to thousands of aspiring data scientists.
                         </p>
                         <p class="disc mb--30">
                             To sum up, I am absolutely and utterly passionate about Data Science and I am looking forward to sharing my passion and knowledge with you!
@@ -1093,7 +1093,7 @@
                             <img src="assets/images/banner/bulb-2.png" alt="icon">
                             <span>Why Choose Us</span>
                         </div>
-                        <h2 class="title">Studyhub Your Path to
+                        <h2 class="title">Campus Coach | Guiding Future Your Path to
                             Excellence & Success</h2>
                         <p class="post-title">We are passionate about education and dedicated to providing high- <br> quality learning resources for learners of all backgrounds.</p>
                     </div>
@@ -1377,7 +1377,7 @@
                             </div>
                             <div class="single-input">
                                 <label for="email">Your Email*</label>
-                                <input type="text" id="email" placeholder="info@studyhub.net" required>
+                                <input type="text" id="email" placeholder="info@Campus Coach | Guiding Future.net" required>
                             </div>
                             <div class="single-input">
                                 <label for="message">Message*</label>
@@ -1429,7 +1429,7 @@
                                 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                             </ul>
                         </div>
-                        <p class="copu-right">Copyright © 2024 All Rights Reserved by <a href="#">Studyhub</a></p>
+                        <p class="copu-right">Copyright © 2024 All Rights Reserved by <a href="#">Campus Coach | Guiding Future</a></p>
                     </div>
                 </div>
             </div>

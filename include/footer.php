@@ -8,7 +8,7 @@
                                 <img src="assets/images/banner/bulb-2.png" alt="icon">
                                 <span>Downloads App</span>
                             </div>
-                            <h2 class="title mb--25">Build your Skills Certificate From <br> the Studyhub Online course</h2>
+                            <h2 class="title mb--25">Build your Skills Certificate From <br> the Campus Coach | Guiding Future Online course</h2>
                             <div class="finding-source">
                                 <a href="#">
                                     <img src="assets/images/cta/01.svg" alt="cta-one">
@@ -115,7 +115,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-area-one">
-                            <p>Copyright © 2024 All Rights Reserved by Studyhub</p>
+                            <p>Copyright © <?php echo date(format: 'Y'); ?> Campus Coach | Developed By <a href="https://endeavourdigital.in">Endeavour Digital</a></p>
                             <div class="social-copyright">
                                 <ul>
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>

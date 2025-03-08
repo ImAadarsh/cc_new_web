@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Studyhub LMS & University HTML Template </title>
+    <title>Campus Coach | Guiding Future </title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
     <!-- fontawesome 6.4.2 -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-6.css">
@@ -68,7 +68,7 @@
                 </div>
                 <div class="col-lg-6 pl--60">
                     <div class="title-area-left-style">
-                        <h2 class="title">Know Studyhub Empowering <br>
+                        <h2 class="title">Know Campus Coach | Guiding Future Empowering <br>
                             Learners Worldwide</h2>
                     </div>
                     <div class="about-inner-right-two">
@@ -105,7 +105,7 @@
                                     <a href="#">
                                         <h6 class="title">William James</h6>
                                     </a>
-                                    <p class="desig">CEO, Studyhub Online Education</p>
+                                    <p class="desig">CEO, Campus Coach | Guiding Future Online Education</p>
                                 </div>
                             </div>
                             <div class="autho-sign-area">
