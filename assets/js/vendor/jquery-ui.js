@@ -6842,7 +6842,7 @@ $.widget( "ui.button", {
 			options.disabled = disabled;
 		}
 
-		this.originalLabel = this.isInput ? this.element.val() : this.element.html();
+		this.originalLabel = this.isInput ? this.element.val() : this.element.php();
 		if ( this.originalLabel ) {
 			options.label = this.originalLabel;
 		}
@@ -6869,7 +6869,7 @@ $.widget( "ui.button", {
 			if ( this.isInput ) {
 				this.element.val( this.options.label );
 			} else {
-				this.element.html( this.options.label );
+				this.element.php( this.options.label );
 			}
 		}
 		this._addClass( "ui-button", "ui-widget" );
@@ -7025,7 +7025,7 @@ $.widget( "ui.button", {
 
 				// If there is an icon, append it, else nothing then append the value
 				// this avoids removal of the icon when setting label text
-				this.element.html( value );
+				this.element.php( value );
 				if ( this.icon ) {
 					this._attachIcon( this.options.iconPosition );
 					this._attachIconSpace( this.options.iconPosition );
@@ -8185,7 +8185,7 @@ $.extend( Datepicker.prototype, {
 		}
 
 		inst = this._getInst( target[ 0 ] );
-		inst.selectedDay = inst.currentDay = $( "a", td ).html();
+		inst.selectedDay = inst.currentDay = $( "a", td ).php();
 		inst.selectedMonth = inst.currentMonth = month;
 		inst.selectedYear = inst.currentYear = year;
 		this._selectDate( id, this._formatDate( inst,
@@ -12346,7 +12346,7 @@ $.widget( "ui.dialog", {
 		// dialog in IE (#9312)
 		this.uiDialogTitlebarClose = $( "<button type='button'></button>" )
 			.button( {
-				label: $( "<a>" ).text( this.options.closeText ).html(),
+				label: $( "<a>" ).text( this.options.closeText ).php(),
 				icon: "ui-icon-closethick",
 				showLabel: false
 			} )
@@ -12375,7 +12375,7 @@ $.widget( "ui.dialog", {
 		if ( this.options.title ) {
 			title.text( this.options.title );
 		} else {
-			title.html( "&#160;" );
+			title.php( "&#160;" );
 		}
 	},
 
@@ -12645,7 +12645,7 @@ $.widget( "ui.dialog", {
 			this.uiDialogTitlebarClose.button( {
 
 				// Ensure that we always pass a string
-				label: $( "<a>" ).text( "" + this.options.closeText ).html()
+				label: $( "<a>" ).text( "" + this.options.closeText ).php()
 			} );
 		}
 
@@ -14138,7 +14138,7 @@ var widgetsSelectmenu = $.widget( "ui.selectmenu", [ $.ui.formResetMixin, {
 		if ( value ) {
 			element.text( value );
 		} else {
-			element.html( "&#160;" );
+			element.php( "&#160;" );
 		}
 	},
 
@@ -18145,7 +18145,7 @@ $.widget( "ui.tabs", {
 					// support: jQuery <1.8
 					// http://bugs.jquery.com/ticket/11778
 					setTimeout( function() {
-						panel.html( response );
+						panel.php( response );
 						that._trigger( "load", event, eventData );
 
 						complete( jqXHR, status );
@@ -18231,7 +18231,7 @@ $.widget( "ui.tooltip", {
 			var title = $( this ).attr( "title" ) || "";
 
 			// Escape title, since we're going from an attribute to raw HTML
-			return $( "<a>" ).text( title ).html();
+			return $( "<a>" ).text( title ).php();
 		},
 		hide: true,
 
@@ -18447,7 +18447,7 @@ $.widget( "ui.tooltip", {
 		// exists, then just update the content and bail.
 		tooltipData = this._find( target );
 		if ( tooltipData ) {
-			tooltipData.tooltip.find( ".ui-tooltip-content" ).html( content );
+			tooltipData.tooltip.find( ".ui-tooltip-content" ).php( content );
 			return;
 		}
 
@@ -18469,13 +18469,13 @@ $.widget( "ui.tooltip", {
 		tooltipData = this._tooltip( target );
 		tooltip = tooltipData.tooltip;
 		this._addDescribedBy( target, tooltip.attr( "id" ) );
-		tooltip.find( ".ui-tooltip-content" ).html( content );
+		tooltip.find( ".ui-tooltip-content" ).php( content );
 
 		// Support: Voiceover on OS X, JAWS on IE <= 9
 		// JAWS announces deletions even when aria-relevant="additions"
 		// Voiceover will sometimes re-read the entire log region's contents from the beginning
 		this.liveRegion.children().hide();
-		a11yContent = $( "<div>" ).html( tooltip.find( ".ui-tooltip-content" ).html() );
+		a11yContent = $( "<div>" ).php( tooltip.find( ".ui-tooltip-content" ).php() );
 		a11yContent.removeAttr( "name" ).find( "[name]" ).removeAttr( "name" );
 		a11yContent.removeAttr( "id" ).find( "[id]" ).removeAttr( "id" );
 		a11yContent.appendTo( this.liveRegion );
