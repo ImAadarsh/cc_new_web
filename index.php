@@ -26,406 +26,7 @@
 
 
     <!-- header style one -->
-    <header class="header-one header--sticky">
-        <div class="header-top-one-wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="header-top-one">
-                            <div class="left-information">
-                                <a href="mailto:someone@example.com" class="email"><i class="fa-light fa-envelope"></i>info@campuscoach.in</a>
-                                <a href="tel:+4733378901" class="email"><i class="fa-light fa-phone"></i>+61 012 012 445</a>
-                            </div>
-                            <div class="right-information">
-                                <ul class="rts-dropdown-menu switcher-language">
-                                    <li class="has-child-menu">
-                                        <a href="#">
-                                            <img class="left-image" src="assets/images/flag-01.svg" alt="Language Images">
-                                            <span class="menu-item">English</span>
-                                            <i class="fa-regular fa-chevron-down"></i>
-                                        </a>
-                                        <ul class="sub-menu">
-                                            <li>
-                                                <a href="#">
-                                                    <img class="left-image" src="assets/images/flag-03.svg" alt="Language Images">
-                                                    <span class="menu-item">Deutsch</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <img class="left-image" src="assets/images/flag-02.svg" alt="Language Images">
-                                                    <span class="menu-item">Portuguese</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <img class="left-image" src="assets/images/flag-04.svg" alt="Language Images">
-                                                    <span class="menu-item">Russian</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                                <ul class="rts-dropdown-menu switcher-currency">
-                                    <li class="has-child-menu">
-                                        <a href="#">
-                                            <span class="menu-item">USD</span>
-                                            <i class="fa-regular fa-chevron-down"></i>
-                                        </a>
-                                        <ul class="sub-menu">
-                                            <li>
-                                                <a href="#">
-                                                    <span class="menu-item">Euro</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <span class="menu-item">Real</span>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="#">
-                                                    <span class="menu-item">Ruble</span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="header-one-wrapper">
-                        <div class="left-side-header">
-                            <a href="index.php" class="logo-area">
-                                <img src="assets/images/logo/logo-1.svg" alt="logo">
-                            </a>
-                            <div class="category-area">
-                                <div class="category-btn">
-                                    <img src="assets/images/header/grid.png" alt="grid">
-                                    <span>Category</span>
-                                    <i class="fa-sharp fa-regular fa-chevron-down"></i>
-                                    <ul class="category-sub-menu">
-                                        <li>
-                                            <ul>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/01.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Development</h4>
-                                                            <p>130+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/07.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Academics</h4>
-                                                            <p>130+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/02.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Business</h4>
-                                                            <p>150+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/03.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Design & Art</h4>
-                                                            <p>120+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                            <ul>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/04.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Marketing</h4>
-                                                            <p>130+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/05.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Music</h4>
-                                                            <p>100+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/08.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Photography</h4>
-                                                            <p>150+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="menu-item">
-                                                        <img src="assets/images/category/06.svg" alt="">
-                                                        <div class="text">
-                                                            <h4>Accounting</h4>
-                                                            <p>150+ Courses</p>
-                                                        </div>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <div class="main-nav-one">
-                            <nav>
-                                <ul>
-                                    <li class="has-dropdown" style="position: static;">
-                                        <a class="nav-link" href="#">Home</a>
-
-                                        <ul class="megamenu-hub">
-                                            <li>
-                                                <ul class="">
-                                                    <li>
-                                                        <a href="index.php">Main Home</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-two.php">Online course </a>
-                                                        <span class="popular">Popular</span>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-three.php">Course hub</a>
-                                                        <span>Hot</span>
-                                                    </li>
-                                                    <li><a href="index-four.php">Distance learning</a></li>
-                                                    <li>
-                                                        <a href="index-five.php">Single Instructor</a>
-                                                        <span>Hot</span>
-                                                    </li>
-                                                </ul>
-                                                <ul class="">
-                                                    <li>
-                                                        <a href="index-six.php">Language Academy</a>
-                                                        <span>Hot</span>
-                                                    </li>
-                                                    <li><a href="index-seven.php">Gym Instructor</a></li>
-                                                    <li>
-                                                        <a href="index-eight.php">Kitchen coach</a>
-                                                        <span class="popular">Popular</span>
-                                                    </li>
-                                                    <li><a href="index-nine.php">Course Portal</a></li>
-                                                    <li><a href="index-ten.php">Business coach</a></li>
-                                                </ul>
-                                                <div class="absolute-image-shape shape-image">
-                                                    <img class=" shape one" src="assets/images/nav/02.png" data-speed="0.04" data-revert="true" alt="nav">
-                                                    <img class=" shape two" src="assets/images/nav/03.png" data-speed="0.04" alt="nav">
-                                                </div>
-                                                <div class="nav-mega-image">
-                                                    <a href="single-course.php">
-                                                        <img src="assets/images/nav/01.jpg" alt="nav">
-                                                    </a>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-
-                                    <li class="has-dropdown">
-                                        <a class="nav-link" href="#">Pages</a>
-                                        <ul class="submenu">
-                                            <li><a href="about.php">About Us</a></li>
-                                            <li><a href="about-two.php">About Two</a></li>
-                                            <li><a href="instructor-profile.php">Profile</a></li>
-                                            <li><a href="contact.php">Contact</a></li>
-                                            <li class="sub-dropdown">
-                                                <a href="javascript:void(0);">Zoom</a>
-                                                <ul class="submenu third-lvl base">
-                                                    <li><a class="mobile-menu-link" href="zoom-meeting.php">Zoom Meeting</a></li>
-                                                    <li><a class="mobile-menu-link" href="zoom-details.php">Zoom Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="sub-dropdown">
-                                                <a href="javascript:void(0);">Event</a>
-                                                <ul class="submenu third-lvl base">
-                                                    <li><a class="mobile-menu-link" href="event.php">Event</a></li>
-                                                    <li><a class="mobile-menu-link" href="event-2.php">Event Two</a></li>
-                                                    <li><a class="mobile-menu-link" href="event-details.php">Event Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="sub-dropdown">
-                                                <a href="javascript:void(0);">Shop</a>
-                                                <ul class="submenu third-lvl base">
-                                                    <li><a class="mobile-menu-link" href="shop.php">Shop</a></li>
-                                                    <li><a class="mobile-menu-link" href="product-details.php">Product Details</a></li>
-                                                    <li><a class="mobile-menu-link" href="checkout.php">Checkout</a></li>
-                                                    <li><a class="mobile-menu-link" href="cart.php">Cart</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="404.php">Error 404</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-dropdown" style="position: static;">
-                                        <a class="nav-link" href="#">Courses</a>
-                                        <ul class="megamenu-hub min-mega shape-move">
-                                            <li>
-                                                <ul class="">
-                                                    <li class="parent"><a href="#">Courses</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-one.php">Courses</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-two.php">Course List</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-three.php">Course Grid</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-four.php">Course List Two</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-five.php">Course Grid Two</a></li>
-                                                    <li><a class="mobile-menu-link" href="course-six.php">Course Grid Three</a></li>
-                                                </ul>
-                                                <ul class="">
-                                                    <li class="parent"><a href="#">Courses Details</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course.php">Course Details</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course-two.php">Course Details v2</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course-three.php">Course Details v3</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course-four.php">Course Details v4</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course-five.php">Course Details v5</a></li>
-                                                    <li><a class="mobile-menu-link" href="single-course-free.php">Course Details Free</a></li>
-                                                </ul>
-                                                <ul class="">
-                                                    <li class="parent"><a href="#">Others</a></li>
-                                                    <li><a href="become-instructor.php">Become an Instructor</a></li>
-                                                    <li><a href="instructor-profile.php">Instructor Profile</a></li>
-                                                    <li><a href="instructor.php">Instructor</a></li>
-                                                    <li><a href="pricing.php">Membership Plan</a></li>
-                                                    <li><a href="log-in.php">Log In</a></li>
-                                                    <li><a href="registration.php">Registration</a></li>
-                                                </ul>
-                                                <div class="thumbnav-area">
-                                                    <!-- single thumbnav -->
-                                                    <a href="create-course.php" class="single-thumbnav">
-                                                        <div class="icon">
-                                                            <img src="assets/images/nav/04.png" alt="nav">
-                                                        </div>
-                                                        <span>Create Course</span>
-                                                    </a>
-                                                    <!-- single thumbnav end -->
-                                                    <!-- single thumbnav -->
-                                                    <a href="lesson-details.php" class="single-thumbnav mash">
-                                                        <div class="icon">
-                                                            <img src="assets/images/nav/05.png" alt="nav">
-                                                        </div>
-                                                        <span>Lesson Details</span>
-                                                    </a>
-                                                    <!-- single thumbnav end -->
-                                                    <!-- single thumbnav -->
-                                                    <a href="instructor.php" class="single-thumbnav">
-                                                        <div class="icon">
-                                                            <img src="assets/images/nav/06.png" alt="nav">
-                                                        </div>
-                                                        <span>Instructor</span>
-                                                    </a>
-                                                    <!-- single thumbnav end -->
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-dropdown">
-                                        <a class="nav-link" href="#">Dashboard</a>
-                                        <ul class="submenu">
-                                            <li class="sub-dropdown">
-                                                <a class="submenu-link" href="javascript:void(0);">Instructor Dashboard</a>
-                                                <ul class="submenu third-lvl base">
-                                                    <li><a class="mobile-menu-link" href="dashboard.php">Dashboard</a></li>
-                                                    <li><a class="mobile-menu-link" href="my-profile.php">My Profile</a></li>
-                                                    <li><a class="mobile-menu-link" href="enroll-course.php">Enroll Course</a></li>
-                                                    <li><a class="mobile-menu-link" href="wishlist.php">Wishlist</a></li>
-                                                    <li><a class="mobile-menu-link" href="reviews.php">Reviews</a></li>
-                                                    <li><a class="mobile-menu-link" href="quick-attempts.php">Quick Attempts</a></li>
-                                                    <li><a class="mobile-menu-link" href="order-history.php">Order History</a></li>
-                                                    <li><a class="mobile-menu-link" href="question-answer.php">Question Answer</a></li>
-                                                    <li><a class="mobile-menu-link" href="calender.php">Calender</a></li>
-                                                    <li><a class="mobile-menu-link" href="my-course.php">My Course</a></li>
-                                                    <li><a class="mobile-menu-link" href="announcement.php">Announcement</a></li>
-                                                    <li><a class="mobile-menu-link" href="assignments.php">Assignments</a></li>
-                                                    <li><a class="mobile-menu-link" href="certificate.php">Certificate</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="sub-dropdown">
-                                                <a class="submenu-link" href="javascript:void(0);">Students Dashboard</a>
-                                                <ul class="submenu third-lvl base">
-                                                    <li><a class="mobile-menu-link" href="student-dashboard.php">Dashboard</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-profile.php">My Profile</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-enroll-course.php">Enroll Course</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-wishlist.php">Wishlist</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-reviews.php">Reviews</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-quick-attempts.php">Quick Attempts</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-order-history.php">Order History</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-question-answer.php">Question Answer</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-calender.php">Calender</a></li>
-                                                    <li><a class="mobile-menu-link" href="student-settings.php">Student Settings</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="has-dropdown">
-                                        <a class="nav-link" href="#">Blog</a>
-                                        <ul class="submenu">
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="blog-grid.php">Blog Grid</a></li>
-                                            <li><a href="blog-list.php">Blog List</a></li>
-                                            <li><a href="blog-right-sidebar.php">Blog Right Sidebar</a></li>
-                                            <li><a href="blog-left-sidebar.php">Blog Left Sidebar</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </nav>
-                        </div>
-
-
-                        <div class="main-nav-one">
-                        </div>
-                        <div class="header-right-area-one">
-                            <div class="actions-area">
-                                <div class="search-btn" id="search">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
-                                        <path d="M19.9375 18.9652L14.7454 13.7732C15.993 12.2753 16.6152 10.3542 16.4824 8.40936C16.3497 6.46453 15.4722 4.64575 14.0326 3.33139C12.593 2.01702 10.7021 1.30826 8.75326 1.35254C6.8044 1.39683 4.94764 2.19075 3.56924 3.56916C2.19083 4.94756 1.39691 6.80432 1.35263 8.75317C1.30834 10.702 2.0171 12.5929 3.33147 14.0325C4.64584 15.4721 6.46461 16.3496 8.40944 16.4823C10.3543 16.6151 12.2754 15.993 13.7732 14.7453L18.9653 19.9374L19.9375 18.9652ZM2.75 8.93742C2.75 7.71365 3.11289 6.51736 3.79278 5.49983C4.47267 4.4823 5.43903 3.68923 6.56965 3.22091C7.70026 2.7526 8.94436 2.63006 10.1446 2.86881C11.3449 3.10756 12.4474 3.69686 13.3127 4.56219C14.1781 5.42753 14.7674 6.53004 15.0061 7.7303C15.2449 8.93055 15.1223 10.1747 14.654 11.3053C14.1857 12.4359 13.3926 13.4022 12.3751 14.0821C11.3576 14.762 10.1613 15.1249 8.9375 15.1249C7.29703 15.1231 5.72427 14.4706 4.56429 13.3106C3.4043 12.1506 2.75182 10.5779 2.75 8.93742Z" fill="#553CDF" />
-                                    </svg>
-                                </div>
-                                <div class="cart cart-icon">
-                                    <i class="fa-regular fa-cart-shopping"></i>
-                                </div>
-                            </div>
-                            <div class="buttons-area">
-                                <a href="log-in.php" class="rts-btn btn-border">Log In</a>
-                                <a href="registration.php" class="rts-btn btn-primary">Sign Up</a>
-                            </div>
-                            <div class="menu-btn" id="menu-btn">
-                                <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
-                                    <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
-                                    <rect width="20" height="2" fill="#1F1F25"></rect>
-                                </svg>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<?php include "include/header.php"; ?>
     <!-- header style end -->
 
     <!-- banner area start -->
@@ -437,17 +38,17 @@
                         <div class="inner">
                             <div class="pre-title-banner">
                                 <img src="assets/images/banner/bulb.png" width="22" alt="icon">
-                                <span>Gateway to Lifelong Learning</span>
+                                <span>Career Guidance & Mentoring</span>
                             </div>
                             <h1 class="title-banner">
-                                Unlock Your Potential <br>
-                                with <span>Online Learning</span>
+                            Shape Your
+                            Future  <br>
+                                with <span>Confidence</span>
                                 <img src="assets/images/banner/02.png" alt="banner">
                             </h1>
-                            <p class="disc">Discover a world of knowledge and opportunities with our online
-                                education platform pursue a new career.</p>
+                            <p class="disc">India's largest in-school career mentoring program for 11th and 12th grade students. We guide you to make informed decisions about your future careers and campuses.</p>
                             <div class="banner-btn-author-wrapper">
-                                <a href="course-five.php" class="rts-btn btn-primary with-arrow">View All Course <i class="fa-regular fa-arrow-right"></i></a>
+                                <a href="course-five.php" class="rts-btn btn-primary with-arrow">Book a Session <i class="fa-regular fa-arrow-right"></i></a>
                                 <div class="sm-image-wrapper">
                                     <div class="images-wrap">
                                         <img src="assets/images/banner/shape/06.png" alt="banner">
@@ -455,8 +56,8 @@
                                         <img class="three" src="assets/images/banner/shape/08.png" alt="banner">
                                     </div>
                                     <div class="info">
-                                        <h6 class="title">2k students</h6>
-                                        <span>Joint our online Class</span>
+                                        <h6 class="title">100k+ students</h6>
+                                        <span>Join Our Community</span>
                                     </div>
                                 </div>
                             </div>
@@ -486,7 +87,7 @@
                 <div class="info-right">
                     <h6 class="title">100+
                     </h6>
-                    <span>Online Course</span>
+                    <span>Mentors</span>
                 </div>
             </div>
             <!-- single review end -->
@@ -601,8 +202,8 @@
                                 <img src="assets/images/about/03.jpg" alt="about">
                                 <div class="information">
                                     <div class="left">
-                                        <h3 class="title"><span class="counter animated fadeInDownBig">2.4</span>k</h3>
-                                        <span class="review">Positive Review</span>
+                                        <h3 class="title"><span class="  fadeInDownBig">100</span>k</h3>
+                                        <span class="review">Students</span>
                                     </div>
                                     <div class="right">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="49" height="45" viewBox="0 0 49 45" fill="none">
@@ -687,111 +288,8 @@
     </div>
     <!-- about area end -->
 
-    <!-- category area start -->
-    <div class="category-area-style-one shape-move rts-section-gap bg_image">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-area-center-style">
-                        <div class="pre-title">
-                            <img src="assets/images/banner/bulb.png" alt="icon">
-                            <span>Top Category</span>
-                        </div>
-                        <h2 class="title">Explore 2000+ Free Online Courses</h2>
-                        <p class="post-title">You'll find something to spark your curiosity and enhance</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt--50">
-                <div class="col-lg-12">
-                    <div class="category-swiper-wrapper">
-                        <div class="swiper mySwiper-category-1">
-                            <div class="swiper-wrapper">
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/01.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Development</h5>
-                                        <span>130+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/02.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Business</h5>
-                                        <span>230+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/03.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Design & Art</h5>
-                                        <span>230+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/04.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Marketing</h5>
-                                        <span>144+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/05.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Music</h5>
-                                        <span>130+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                                <!-- single swiper style -->
-                                <div class="swiper-slide">
-                                    <a href="#" class="category-style-one">
-                                        <div class="icon">
-                                            <img src="assets/images/category/06.svg" alt="brand">
-                                        </div>
-                                        <h5 class="title">Accounting</h5>
-                                        <span>110+ Courses</span>
-                                    </a>
-                                </div>
-                                <!-- single swiper style -->
-                            </div>
-                            <div class="swiper-button-next"><i class="fa-solid fa-chevron-right"></i></div>
-                            <div class="swiper-button-prev"><i class="fa-solid fa-chevron-left"></i></div>
-                            <div class="swiper-pagination"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="shape-image">
-            <div class="shape one" data-speed="0.04" data-revert="true"><img src="assets/images/banner/15.png" alt=""></div>
-            <div class="shape two" data-speed="0.04"><img src="assets/images/banner/shape/banner-shape02.svg" alt=""></div>
-            <div class="shape three" data-speed="0.04"><img src="assets/images/banner/shape/banner-shape03.svg" alt=""></div>
-        </div>
-    </div>
-    <!-- category area end -->
-
-    <!-- course area start -->
-    <div class="course-area-start rts-section-gap">
+        <!-- course area start -->
+        <div class="course-area-start rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -799,9 +297,9 @@
                         <div class="title-area-left-style">
                             <div class="pre-title">
                                 <img src="assets/images/banner/bulb.png" alt="icon">
-                                <span>Courses</span>
+                                <!-- <span>Courses</span> -->
                             </div>
-                            <h2 class="title">Explore Featured Courses</h2>
+                            <h2 class="title">Explore Featured Instructor</h2>
                             <p class="post-title">You'll find something to spark your curiosity and enhance</p>
                         </div>
                         <div class="button-group filters-button-group">
@@ -817,35 +315,36 @@
             <div class="ms-portfolio-filter-area main-isotop">
                 <div class="portfolio_wrap">
                     <div class="filter row g-5 mt--20 portfolio-feed personal">
+
+
                         <div class="flash grid-item-p element-item transition creative col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
                             <!-- rts single course -->
                             <div class="rts-single-course">
                                 <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/01.jpg" alt="course">
+                                    <img src="Gaurava.png" alt="course">
                                 </a>
                                 <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
                                     <i class="fa-sharp fa-light fa-bookmark"></i>
                                 </div>
                                 <div class="tags-area-wrapper">
                                     <div class="single-tag">
-                                        <span>Web Development</span>
+                                        <span>Education</span>
                                     </div>
                                 </div>
                                 <div class="lesson-studente">
                                     <div class="lesson">
                                         <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>25 Lessons</span>
+                                        <span>25 Sessions</span>
                                     </div>
                                     <div class="lesson">
                                         <i class="fa-light fa-user-group"></i>
-                                        <span>54 Students</span>
+                                        <span>100+ Students</span>
                                     </div>
                                 </div>
                                 <a href="single-course.php">
-                                    <h5 class="title">The Complete Web Developer in
-                                        2023: Zero to Mastery</h5>
+                                    <h5 class="title">Mr. Gaurava Yadav</h5>
                                 </a>
-                                <p class="teacher">Dr. Angela Yu</p>
+                                <p class="teacher">Founder CEO | IPN FORUM</p>
                                 <div class="rating-and-price">
                                     <div class="rating-area">
                                         <span>4.5</span>
@@ -861,178 +360,10 @@
                                     </div>
                                     <div class="price-area">
                                         <div class="not price">
-                                            $79.99
+                                        ₹1999
                                         </div>
                                         <div class="price">
-                                            $79.99
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- rts single course end -->
-                        </div>
-
-                        <div class="flash grid-item-p element-item transition design col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
-                            <!-- rts single course -->
-                            <div class="rts-single-course">
-                                <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/02.jpg" alt="course">
-                                </a>
-                                <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
-                                    <i class="fa-sharp fa-light fa-bookmark"></i>
-                                </div>
-                                <div class="tags-area-wrapper">
-                                    <div class="single-tag">
-                                        <span>Marketing</span>
-                                    </div>
-                                    <div class="single-tag">
-                                        <span>Finance</span>
-                                    </div>
-                                </div>
-                                <div class="lesson-studente">
-                                    <div class="lesson">
-                                        <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>22 Lessons</span>
-                                    </div>
-                                    <div class="lesson">
-                                        <i class="fa-light fa-user-group"></i>
-                                        <span>60 Students</span>
-                                    </div>
-                                </div>
-                                <a href="single-course.php">
-                                    <h5 class="title">How to Write the Ultimate 1 Page
-                                        Strategic Business Plan</h5>
-                                </a>
-                                <p class="teacher">William U. Peña, MBA</p>
-                                <div class="rating-and-price">
-                                    <div class="rating-area">
-                                        <span>4.5</span>
-                                        <div class="stars">
-                                            <ul>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="price-area">
-                                        <div class="price">
-                                            $79.99
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- rts single course end -->
-                        </div>
-
-                        <div class="flash grid-item-p element-item transition photo col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
-                            <!-- rts single course -->
-                            <div class="rts-single-course">
-                                <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/03.jpg" alt="course">
-                                </a>
-                                <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
-                                    <i class="fa-sharp fa-light fa-bookmark"></i>
-                                </div>
-                                <div class="tags-area-wrapper">
-                                    <div class="single-tag">
-                                        <span>Web Development</span>
-                                    </div>
-                                </div>
-                                <div class="lesson-studente">
-                                    <div class="lesson">
-                                        <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>23 Lessons</span>
-                                    </div>
-                                    <div class="lesson">
-                                        <i class="fa-light fa-user-group"></i>
-                                        <span>40 Students</span>
-                                    </div>
-                                </div>
-                                <a href="single-course.php">
-                                    <h5 class="title">100 Days Of Code - 2023 Web
-                                        Development Bootcamp</h5>
-                                </a>
-                                <p class="teacher">Dr. Angela Yu</p>
-                                <div class="rating-and-price">
-                                    <div class="rating-area">
-                                        <span>4.5</span>
-                                        <div class="stars">
-                                            <ul>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="price-area">
-                                        <div class="not price">
-                                            $79.99
-                                        </div>
-                                        <div class="price">
-                                            $79.99
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- rts single course end -->
-                        </div>
-
-                        <div class="flash grid-item-p element-item transition style col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
-                            <!-- rts single course -->
-                            <div class="rts-single-course">
-                                <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/04.jpg" alt="course">
-                                </a>
-                                <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
-                                    <i class="fa-sharp fa-light fa-bookmark"></i>
-                                </div>
-                                <div class="tags-area-wrapper">
-                                    <div class="single-tag">
-                                        <span>Design</span>
-                                    </div>
-                                    <div class="single-tag">
-                                        <span>UI/UX</span>
-                                    </div>
-                                </div>
-                                <div class="lesson-studente">
-                                    <div class="lesson">
-                                        <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>19 Lessons</span>
-                                    </div>
-                                    <div class="lesson">
-                                        <i class="fa-light fa-user-group"></i>
-                                        <span>14 Students</span>
-                                    </div>
-                                </div>
-                                <a href="single-course.php">
-                                    <h5 class="title">User Experience The Ultimate
-                                        Guide to Usability and UX</h5>
-                                </a>
-                                <p class="teacher">David Travis</p>
-                                <div class="rating-and-price">
-                                    <div class="rating-area">
-                                        <span>4.5</span>
-                                        <div class="stars">
-                                            <ul>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="price-area">
-                                        <div class="not price">
-                                            $79.99
-                                        </div>
-                                        <div class="price">
-                                            $79.99
+                                        ₹999
                                         </div>
                                     </div>
                                 </div>
@@ -1044,34 +375,30 @@
                             <!-- rts single course -->
                             <div class="rts-single-course">
                                 <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/05.jpg" alt="course">
+                                    <img src="Gaurava.png" alt="course">
                                 </a>
                                 <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
                                     <i class="fa-sharp fa-light fa-bookmark"></i>
                                 </div>
                                 <div class="tags-area-wrapper">
                                     <div class="single-tag">
-                                        <span>Music</span>
-                                    </div>
-                                    <div class="single-tag">
-                                        <span>Art</span>
+                                        <span>Education</span>
                                     </div>
                                 </div>
                                 <div class="lesson-studente">
                                     <div class="lesson">
                                         <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>25 Lessons</span>
+                                        <span>25 Sessions</span>
                                     </div>
                                     <div class="lesson">
                                         <i class="fa-light fa-user-group"></i>
-                                        <span>54 Students</span>
+                                        <span>100+ Students</span>
                                     </div>
                                 </div>
                                 <a href="single-course.php">
-                                    <h5 class="title">Complete Guitar Lessons System
-                                        Beginner to Advanced</h5>
+                                    <h5 class="title">Mr. Gaurava Yadav</h5>
                                 </a>
-                                <p class="teacher">Erich Andreas</p>
+                                <p class="teacher">Founder CEO | IPN FORUM</p>
                                 <div class="rating-and-price">
                                     <div class="rating-area">
                                         <span>4.5</span>
@@ -1087,10 +414,10 @@
                                     </div>
                                     <div class="price-area">
                                         <div class="not price">
-                                            $79.99
+                                        ₹1999
                                         </div>
                                         <div class="price">
-                                            $79.99
+                                        ₹999
                                         </div>
                                     </div>
                                 </div>
@@ -1098,86 +425,35 @@
                             <!-- rts single course end -->
                         </div>
 
-                        <div class="flash grid-item-p element-item transition design col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
-                            <!-- rts single course -->
-                            <div class="rts-single-course">
-                                <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/06.jpg" alt="course">
-                                </a>
-                                <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
-                                    <i class="fa-sharp fa-light fa-bookmark"></i>
-                                </div>
-                                <div class="tags-area-wrapper">
-                                    <div class="single-tag">
-                                        <span>Web Development</span>
-                                    </div>
-                                </div>
-                                <div class="lesson-studente">
-                                    <div class="lesson">
-                                        <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>25 Lessons</span>
-                                    </div>
-                                    <div class="lesson">
-                                        <i class="fa-light fa-user-group"></i>
-                                        <span>54 Students</span>
-                                    </div>
-                                </div>
-                                <a href="single-course.php">
-                                    <h5 class="title">How to Market Yourself as Coach or Consultant Market</h5>
-                                </a>
-                                <p class="teacher">Dr. Angela Yu</p>
-                                <div class="rating-and-price">
-                                    <div class="rating-area">
-                                        <span>4.5</span>
-                                        <div class="stars">
-                                            <ul>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="price-area">
-                                        <div class="price">
-                                            $79.99
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- rts single course end -->
-                        </div>
 
-                        <div class="flash grid-item-p element-item transition photo col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
+                        <div class="flash grid-item-p element-item transition creative col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
                             <!-- rts single course -->
                             <div class="rts-single-course">
                                 <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/07.jpg" alt="course">
+                                    <img src="Gaurava.png" alt="course">
                                 </a>
                                 <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
                                     <i class="fa-sharp fa-light fa-bookmark"></i>
                                 </div>
                                 <div class="tags-area-wrapper">
                                     <div class="single-tag">
-                                        <span>Business</span>
+                                        <span>Education</span>
                                     </div>
                                 </div>
                                 <div class="lesson-studente">
                                     <div class="lesson">
                                         <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>25 Lessons</span>
+                                        <span>25 Sessions</span>
                                     </div>
                                     <div class="lesson">
                                         <i class="fa-light fa-user-group"></i>
-                                        <span>54 Students</span>
+                                        <span>100+ Students</span>
                                     </div>
                                 </div>
                                 <a href="single-course.php">
-                                    <h5 class="title">How to Run truly Productive in
-                                        Meetings – and add value</h5>
+                                    <h5 class="title">Mr. Gaurava Yadav</h5>
                                 </a>
-                                <p class="teacher">Dr. Angela Yu</p>
+                                <p class="teacher">Founder CEO | IPN FORUM</p>
                                 <div class="rating-and-price">
                                     <div class="rating-area">
                                         <span>4.5</span>
@@ -1193,10 +469,10 @@
                                     </div>
                                     <div class="price-area">
                                         <div class="not price">
-                                            $79.99
+                                        ₹1999
                                         </div>
                                         <div class="price">
-                                            $39.99
+                                        ₹999
                                         </div>
                                     </div>
                                 </div>
@@ -1204,38 +480,35 @@
                             <!-- rts single course end -->
                         </div>
 
-                        <div class="flash grid-item-p element-item transition style col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
+
+                        <div class="flash grid-item-p element-item transition creative col-xl-3 col-lg-4 col-md-6 col-sm-6" data-category="transition">
                             <!-- rts single course -->
                             <div class="rts-single-course">
                                 <a href="single-course.php" class="thumbnail">
-                                    <img src="assets/images/course/08.jpg" alt="course">
+                                    <img src="Gaurava.png" alt="course">
                                 </a>
                                 <div class="save-icon" data-bs-toggle="modal" data-bs-target="#exampleModal-login">
                                     <i class="fa-sharp fa-light fa-bookmark"></i>
                                 </div>
                                 <div class="tags-area-wrapper">
                                     <div class="single-tag">
-                                        <span>Dance</span>
-                                    </div>
-                                    <div class="single-tag">
-                                        <span>Meditation</span>
+                                        <span>Education</span>
                                     </div>
                                 </div>
                                 <div class="lesson-studente">
                                     <div class="lesson">
                                         <i class="fa-light fa-calendar-lines-pen"></i>
-                                        <span>25 Lessons</span>
+                                        <span>25 Sessions</span>
                                     </div>
                                     <div class="lesson">
                                         <i class="fa-light fa-user-group"></i>
-                                        <span>54 Students</span>
+                                        <span>100+ Students</span>
                                     </div>
                                 </div>
                                 <a href="single-course.php">
-                                    <h5 class="title">Pole Dancing Video Course with
-                                        Noelle Wood</h5>
+                                    <h5 class="title">Mr. Gaurava Yadav</h5>
                                 </a>
-                                <p class="teacher">Dr. Angela Yu</p>
+                                <p class="teacher">Founder CEO | IPN FORUM</p>
                                 <div class="rating-and-price">
                                     <div class="rating-area">
                                         <span>4.5</span>
@@ -1250,14 +523,23 @@
                                         </div>
                                     </div>
                                     <div class="price-area">
+                                        <div class="not price">
+                                        ₹1999
+                                        </div>
                                         <div class="price">
-                                            $59.99
+                                        ₹999
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <!-- rts single course end -->
                         </div>
+
+
+                        
+
+                        
+
 
                     </div>
                 </div>
@@ -1537,124 +819,10 @@
     </div>
     <!-- fun facts area end -->
 
-    <!-- instructor area start -->
-    <div class="instrustor-area rts-section-gap">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-between-area align-items-end">
-                        <div class="title-area-left-style">
-                            <div class="pre-title">
-                                <img src="assets/images/banner/bulb.png" alt="icon">
-                                <span>Instructor</span>
-                            </div>
-                            <h2 class="title">Our Professional Instructor</h2>
-                            <p class="post-title">You'll find something to spark your curiosity and enhance</p>
-                        </div>
-                        <a href="#" class="rts-btn btn-primary with-arrow">View All Teacher <i class="fa-light fa-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-5 mt--10">
-                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                    <!-- single instrustor -->
-                    <div class="single-instructor">
-                        <div class="thumbnail-img">
-                            <a href="#" class="thumbnail">
-                                <img src="assets/images/instructor/01.jpg" alt="instructor">
-                            </a>
-                            <div class="social-img-instructor">
-                                <ul>
-                                    <li><a href="#"><i class="fa-sharp fa-light fa-share-nodes"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-skype"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="#">
-                            <h5 class="title">Emma Elizabeth</h5>
-                        </a>
-                        <p>Assistant Teacher</p>
-                    </div>
-                    <!-- single instrustor end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                    <!-- single instrustor -->
-                    <div class="single-instructor">
-                        <div class="thumbnail-img">
-                            <a href="#" class="thumbnail">
-                                <img src="assets/images/instructor/02.jpg" alt="instructor">
-                            </a>
-                            <div class="social-img-instructor">
-                                <ul>
-                                    <li><a href="#"><i class="fa-sharp fa-light fa-share-nodes"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-skype"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="#">
-                            <h5 class="title">Thomas Fred</h5>
-                        </a>
-                        <p>Assistant Teacher</p>
-                    </div>
-                    <!-- single instrustor end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                    <!-- single instrustor -->
-                    <div class="single-instructor">
-                        <div class="thumbnail-img">
-                            <a href="#" class="thumbnail">
-                                <img src="assets/images/instructor/03.jpg" alt="instructor">
-                            </a>
-                            <div class="social-img-instructor">
-                                <ul>
-                                    <li><a href="#"><i class="fa-sharp fa-light fa-share-nodes"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-skype"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="#">
-                            <h5 class="title">Dana White</h5>
-                        </a>
-                        <p>UI/UX Exparet</p>
-                    </div>
-                    <!-- single instrustor end -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-sm-12 col-12">
-                    <!-- single instrustor -->
-                    <div class="single-instructor">
-                        <div class="thumbnail-img">
-                            <a href="#" class="thumbnail">
-                                <img src="assets/images/instructor/04.jpg" alt="instructor">
-                            </a>
-                            <div class="social-img-instructor">
-                                <ul>
-                                    <li><a href="#"><i class="fa-sharp fa-light fa-share-nodes"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-skype"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                                    <li class="bottom"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="#">
-                            <h5 class="title">Elizabeth Olsen</h5>
-                        </a>
-                        <p>Assistant Teacher</p>
-                    </div>
-                    <!-- single instrustor end -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- instructor area start -->
 
     <!-- feedback area start -->
-    <div class="rts-feedback-area rts-section-gap bg-light-1 shape-move">
+    <!-- rts testimonials area  -->
+    <div class="testimonials-area rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -1668,111 +836,363 @@
                     </div>
                 </div>
             </div>
-            <div class="row mt--50">
+        </div>
+        <div class="container-full mt--50">
+            <div class="row">
                 <div class="col-lg-12">
-                    <div class="students-feedback-wrapper-1 bg_image">
-                        <div class="swiper mySwiper-testimonials-1">
-                            <div class="swiper-wrapper">
-
-                                <div class="swiper-slide">
-                                    <!-- single testimonials0area -->
-                                    <div class="single-students-feedback">
-                                        <div class="left-image">
-                                            <img src="assets/images/students-feedback/01.jpg" alt="feedback">
-                                        </div>
-                                        <div class="right-content">
-                                            <img src="assets/images/students-feedback/01.png" alt="feedback">
-                                            <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary adventure. The combination of exceptional.
-                                            </p>
-                                            <!-- author area -->
-                                            <div class="author-area">
-                                                <ul class="stars">
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                                </ul>
-                                                <h5 class="title">Emma Elizabeth</h5>
-                                                <span>Assistant Teacher</span>
-                                            </div>
-                                            <!-- author area end -->
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials0area end -->
+                    <div class="marque-main-wrapper-parent-flex">
+                        <div class="marquree-wrapper-1">
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
                                 </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials0area -->
-                                    <div class="single-students-feedback">
-                                        <div class="left-image">
-                                            <img src="assets/images/students-feedback/02.jpg" alt="feedback">
-                                        </div>
-                                        <div class="right-content">
-                                            <img src="assets/images/students-feedback/01.png" alt="feedback">
-                                            <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary adventure. The combination of exceptional.
-                                            </p>
-                                            <!-- author area -->
-                                            <div class="author-area">
-                                                <ul class="stars">
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                                </ul>
-                                                <h5 class="title">Emma Elizabeth</h5>
-                                                <span>Assistant Teacher</span>
-                                            </div>
-                                            <!-- author area end -->
-                                        </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/02.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
                                     </div>
-                                    <!-- single testimonials0area end -->
                                 </div>
-                                <div class="swiper-slide">
-                                    <!-- single testimonials0area -->
-                                    <div class="single-students-feedback">
-                                        <div class="left-image">
-                                            <img src="assets/images/students-feedback/01.jpg" alt="feedback">
-                                        </div>
-                                        <div class="right-content">
-                                            <img src="assets/images/students-feedback/01.png" alt="feedback">
-                                            <p class="disc">
-                                                I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary adventure. The combination of exceptional.
-                                            </p>
-                                            <!-- author area -->
-                                            <div class="author-area">
-                                                <ul class="stars">
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-solid fa-star"></i></li>
-                                                    <li><i class="fa-sharp fa-regular fa-star"></i></li>
-                                                </ul>
-                                                <h5 class="title">Emma Elizabeth</h5>
-                                                <span>Assistant Teacher</span>
-                                            </div>
-                                            <!-- author area end -->
-                                        </div>
-                                    </div>
-                                    <!-- single testimonials0area end -->
-                                </div>
-
                             </div>
-                            <div class="swiper-button-next"><i class="fa-solid fa-chevron-right"></i></div>
-                            <div class="swiper-button-prev"><i class="fa-solid fa-chevron-left"></i></div>
-                            <div class="swiper-pagination"></div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/03.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Jack Benjamin</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/04.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Samuel John </h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/05.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Samantha Willow</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
                         </div>
-                        <div class="shape-image">
-                            <div class="shape one" data-speed="0.04" data-revert="true"><img src="assets/images/banner/18.png" alt=""></div>
-                            <div class="shape three" data-speed="0.04"><img src="assets/images/banner/17.png" alt=""></div>
+                        <div class="marquree-wrapper-1">
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/06.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/07.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/08.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/09.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                        </div>
+                    </div>
+                    <div class="marque-main-wrapper-parent-flex">
+                        <div class="marquree-wrapper-2">
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/02.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/03.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Jack Benjamin</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/04.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Samuel John </h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/05.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Samantha Willow</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                        </div>
+                        <div class="marquree-wrapper-2">
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/06.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/07.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/08.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
+                            <!-- single testimonials-area -->
+                            <div class="single-testimonials-area-1">
+                                <div class="stars-area">
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-solid fa-star"></i>
+                                    <i class="fa-regular fa-star"></i>
+                                </div>
+                                <p class="disc">
+                                    I can't recommend The Gourmet Haven enough. It's a place for special occasions, date nights, or whenever you're in the mood for a culinary.
+                                </p>
+                                <div class="feedback-author">
+                                    <img src="assets/images/students-feedback/09.png" alt="students-feedback">
+                                    <div class="information">
+                                        <h5 class="title">Emma Elizabeth</h5>
+                                        <span>Assistant Teacher</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- single testimonials-area end -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!-- rts testimonials area end -->
     <!-- feedback area end -->
 
     <!-- rts blog area start -->
@@ -1875,102 +1295,7 @@
     <!-- rts blog area end -->
 
     <!-- cart area start -->
-    <div class="cart-bar">
-        <div class="cart-header">
-            <h3 class="cart-heading">MY CART (3 ITEMS)</h3>
-            <div class="close-cart"><i class="fal fa-times"></i></div>
-        </div>
-        <div class="product-area">
-            <div class="product-item">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/course/cart/01.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name">Construct Map</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">3 ×</span>
-                            <span class="product-price">$198.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="3">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="product-item">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/course/cart/02.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name"> Bridge product</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">2 ×</span>
-                            <span class="product-price">$88.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="2">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="product-item last-child">
-                <div class="product-detail">
-                    <div class="product-thumb"><img src="assets/images/course/cart/03.jpg" alt="product-thumb"></div>
-                    <div class="item-wrapper">
-                        <span class="product-name">Labour helmet</span>
-                        <div class="item-wrapper">
-                            <span class="product-variation"><span class="color">Green /</span>
-                            <span class="size">XL</span></span>
-                        </div>
-                        <div class="item-wrapper">
-                            <span class="product-qnty">1 ×</span>
-                            <span class="product-price">$289.00</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="cart-edit">
-                    <div class="quantity-edit">
-                        <button class="button"><i class="fal fa-minus minus"></i></button>
-                        <input type="text" class="input" value="2">
-                        <button class="button plus">+<i class="fal fa-plus plus"></i></button>
-                    </div>
-                    <div class="item-wrapper d-flex mr--5 align-items-center">
-                        <a href="#" class="product-edit"><i class="fal fa-edit"></i></a>
-                        <a href="#" class="delete-cart"><i class="fal fa-times"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="cart-bottom-area">
-            <span class="spend-shipping"><i class="fal fa-truck"></i> SPENT <span class="amount">$199.00</span> MORE
-            FOR FREE SHIPPING</span>
-            <span class="total-price">TOTAL: <span class="price">$556</span></span>
-            <a href="checkout.php" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
-            <a href="cart.php" class="view-btn cart-btn">VIEW CART</a>
-        </div>
-    </div>
+    <?php include "include/cart.php"; ?>
     <!-- cart area edn -->
 
     <!-- footer call to action area start -->
